@@ -1,4 +1,4 @@
-# c-sharp-kata-2
+# C# Kata 2: Arrays & Sorting
 
 1. Create a new `dotnet` application.
 2. Open **Program.cs** and change the file’s namespace to `Kata2`.
